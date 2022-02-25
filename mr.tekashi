@@ -62,12 +62,12 @@ def logo():
                               ##   ####
                                     ###
                                  \033[33m    ##\033[31m
-          \033[33m-by \033[31mt\033[33mekashiZiinMaKer \033[31mP\033[33marixit\033[31m        \033[33m#\033
+          \033[33m-by \033[31mt\033[33mekashiZiinMaKer \033[31m\033[33m\033[31m        \033[33m#\033
 \n\t     \033[31m\033[1m[_\033[33mIP Flooder\033[31m_]
  \n\033[0m\033[1m
 \t \033[33m\033[1m[-] \033[0m\033[1mPlatform : \033[33m\033[1mAndroid Termux
 \t \033[1m\033[33m\033[1m[-] \033[0m\033[1mName     : \033[33m\033[1mMr.tekashi
-\t \033[1m\033[33m\033[1m[-] \033[0m\033[1mCoded by :\033[1m \033[33m[  \033[32m\033[tekashiZiinMaKer \033[33m ]
+\t \033[1m\033[33m\033[1m[-] \033[0m\033[1mCoded by :\033[1m \033[33m[  \033[32m\033[ttekashiZiinMaKer \033[33m ]
 \t \033[1m\033[33m\033[1m[-] \033[0m\033[1mSec.Code : \033[33m\033[1m8h4i\033[0m
   """)
 
