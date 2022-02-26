@@ -21,7 +21,7 @@ pip install requests
 ```shell script
 git clone https://github.com/tekashiZiinMaKer/Mrtekashi
 cd Mrtekashi
-python2 mr.tekashi
+python2 Start.py
 ```
 
 
